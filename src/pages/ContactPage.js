@@ -1,4 +1,4 @@
-import ContactForm from '../components/ContactForm';
+// import ContactForm from '../components/ContactForm';
 import github from '../img/github-brands.svg';
 import linkedin from '../img/linkedin-brands.svg';
 
@@ -20,14 +20,14 @@ const ContactPage = () => {
             media:
           </p>
           <div className='social-icons'>
-            <a href='https://github.com/goncanegis/'>
+            <a href='https://github.com/Muharodan'>
               <img src={github} alt='my github profile' />
             </a>
-            <a href='https://www.linkedin.com/in/gonca-negis-35784423'>
+            <a href='https://www.linkedin.com/in/muharodan-sidik/'>
               <img src={linkedin} alt='my linkedin profile' />
             </a>
           </div>
-          <ContactForm />
+          {/* <ContactForm /> */}
         </div>
       </div>
     </section>

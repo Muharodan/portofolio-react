@@ -10,23 +10,19 @@ const AboutPage = () => {
           data-aos='zoom-in'
           data-aos-duration='1500'
         >
-          About Me
+          Tentang Saya
         </h2>
         <div className='section-content'>
           <img src={about} alt='' />
           <p className='section-text'>
-            I love building web apps and websites as much as I love my cats and
-            The IT Crowd, which is a LOT.
+            Saya adalah lulusan Teknik Informatika Universitas Katolik Parahyangan,
             <br />
-            I am a self-taught front-end developer with an eye for design, and a
-            background of content writing.
+            dengan skill yang saya kuasai saya percaya dapat menambah skill dengan mencoba bergabung dengan perusahaan anda.
             <br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae
-            lacinia dolor. Vestibulum ut elit eget sem egestas vehicula.
-            Curabitur a feugiat mauris. Ut imperdiet facilisis libero ac
-            faucibus.
+            Sebagai seorang programmer, saya bisa melihat diri saya bisa membuat desain yang sesuai dengan keinginan klien,
+            saya juga memahami konsep design thinking sehingga tujuan dapat tercapai dari sebuah desain.
             <br />
-            Here are a few technologies I've been working with:
+            Ini adalah beberapa teknologi yang saya kuasai:
           </p>
 
           <div className='technologies'>
@@ -37,14 +33,6 @@ const AboutPage = () => {
             <div className='single-technology'>
               <img src={caretright} alt='' />
               <p>CSS3</p>
-            </div>
-            <div className='single-technology'>
-              <img src={caretright} alt='' />
-              <p>JavaScript</p>
-            </div>
-            <div className='single-technology'>
-              <img src={caretright} alt='' />
-              <p>React</p>
             </div>
           </div>
         </div>

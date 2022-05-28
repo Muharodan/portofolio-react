@@ -10,7 +10,7 @@ const HomePage = () => {
           Hai, Saya Muharodan Sidik
         </h2>
         <h3 className='mainText' data-aos='zoom-in' data-aos-duration='2000'>
-          Saya adalah lulusan Teknik Informatika UNPAR dengan segudang problema.
+          Ini adalah portofolio saya.
         </h3>
       </div>
     </section>
